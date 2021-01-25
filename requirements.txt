@@ -1,4 +1,4 @@
-validators
+validators==0.14.2
 colorama
 tabulate
 fake_useragent
